@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1337110388 source:c:\users\onur cem\desktop\proje3\string.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<cstring>
+	"String.h"
+
+1337099180 c:\users\onur cem\desktop\proje3\string.h
+	<iostream>
+
+1337108383 source:c:\users\onur cem\desktop\proje3\main.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+	"String.h"
+	"Ucus.h"
+	"Ucus_Numarasina_Gore_Ucus_Listesi.h"
+	"Kalkis_Yerine_Gore_Ucus_Listesi.h"
+
+1337109939 source:c:\users\onur cem\desktop\proje3\ucus.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Ucus.h"
+
+1337105066 c:\users\onur cem\desktop\proje3\ucus.h
+	"String.h"
+
+1337083923 source:c:\users\onur cem\desktop\proje3\ucus_numarasina_gore_ucus_listesi.cpp
+	<iostream>
+	"Ucus.h"
+	"Ucus_Numarasina_Gore_Ucus_Listesi.h"
+
+1337016255 c:\users\onur cem\desktop\proje3\ucus_numarasina_gore_ucus_listesi.h
+	"Ucus.h"
+
+1337081046 c:\users\onur cem\desktop\proje3\kalkis_yerine_gore_ucus_listesi.h
+	"String.h"
+	"Ucus.h"
+
+1337105625 source:c:\users\onur cem\desktop\proje3\kalkis_yerine_gore_ucus_listesi.cpp
+	<iostream>
+	"String.h"
+	"Ucus.h"
+	"Kalkis_Yerine_Gore_Ucus_Listesi.h"
+
+1337116079 source:d:\yaptýðým programlar\proje3\ucus.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Ucus.h"
+
+1337099180 d:\yaptýðým programlar\proje3\string.h
+	<iostream>
+
+1337105066 d:\yaptýðým programlar\proje3\ucus.h
+	"String.h"
+
+1337083923 source:d:\yaptýðým programlar\proje3\ucus_numarasina_gore_ucus_listesi.cpp
+	<iostream>
+	"Ucus.h"
+	"Ucus_Numarasina_Gore_Ucus_Listesi.h"
+
+1337016255 d:\yaptýðým programlar\proje3\ucus_numarasina_gore_ucus_listesi.h
+	"Ucus.h"
+
+1337105625 source:d:\yaptýðým programlar\proje3\kalkis_yerine_gore_ucus_listesi.cpp
+	<iostream>
+	"String.h"
+	"Ucus.h"
+	"Kalkis_Yerine_Gore_Ucus_Listesi.h"
+
+1337081046 d:\yaptýðým programlar\proje3\kalkis_yerine_gore_ucus_listesi.h
+	"String.h"
+	"Ucus.h"
+
+1337110388 source:d:\yaptýðým programlar\proje3\string.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<cstring>
+	"String.h"
+
+1337116079 source:d:\yaptýðým programlar\proje3\main.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+	"String.h"
+	"Ucus.h"
+	"Ucus_Numarasina_Gore_Ucus_Listesi.h"
+	"Kalkis_Yerine_Gore_Ucus_Listesi.h"
+
+1337178345 source:d:\downloads\proje3\string.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<cstring>
+	"String.h"
+
+1337178345 d:\downloads\proje3\string.h
+	<iostream>
+
+1337116246 source:d:\downloads\proje3\ucus.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Ucus.h"
+
+1337105066 d:\downloads\proje3\ucus.h
+	"String.h"
+
+1337179539 source:d:\downloads\proje3\ucus_numarasina_gore_ucus_listesi.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	"Ucus.h"
+	"Ucus_Numarasina_Gore_Ucus_Listesi.h"
+
+1337016255 d:\downloads\proje3\ucus_numarasina_gore_ucus_listesi.h
+	"Ucus.h"
+
+1337179539 source:d:\downloads\proje3\kalkis_yerine_gore_ucus_listesi.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	"String.h"
+	"Ucus.h"
+	"Kalkis_Yerine_Gore_Ucus_Listesi.h"
+
+1337081046 d:\downloads\proje3\kalkis_yerine_gore_ucus_listesi.h
+	"String.h"
+	"Ucus.h"
+
+1337179345 source:d:\downloads\proje3\main.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+	"String.h"
+	"Ucus.h"
+	"Ucus_Numarasina_Gore_Ucus_Listesi.h"
+	"Kalkis_Yerine_Gore_Ucus_Listesi.h"
+
+1337178345 source:c:\users\furkan\desktop\ \c.e\algoritma lab\projeler\vol6-sýnýflar & nesneler-uçak seferleri\05100000003_05100000007_05110000064\string.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<cstring>
+	"String.h"
+
+1337178345 c:\users\furkan\desktop\ \c.e\algoritma lab\projeler\vol6-sýnýflar & nesneler-uçak seferleri\05100000003_05100000007_05110000064\string.h
+	<iostream>
+
+1337116246 source:c:\users\furkan\desktop\ \c.e\algoritma lab\projeler\vol6-sýnýflar & nesneler-uçak seferleri\05100000003_05100000007_05110000064\ucus.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Ucus.h"
+
+1337105066 c:\users\furkan\desktop\ \c.e\algoritma lab\projeler\vol6-sýnýflar & nesneler-uçak seferleri\05100000003_05100000007_05110000064\ucus.h
+	"String.h"
+
+1337179539 source:c:\users\furkan\desktop\ \c.e\algoritma lab\projeler\vol6-sýnýflar & nesneler-uçak seferleri\05100000003_05100000007_05110000064\ucus_numarasina_gore_ucus_listesi.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	"Ucus.h"
+	"Ucus_Numarasina_Gore_Ucus_Listesi.h"
+
+1337016255 c:\users\furkan\desktop\ \c.e\algoritma lab\projeler\vol6-sýnýflar & nesneler-uçak seferleri\05100000003_05100000007_05110000064\ucus_numarasina_gore_ucus_listesi.h
+	"Ucus.h"
+
+1337180170 source:c:\users\furkan\desktop\ \c.e\algoritma lab\projeler\vol6-sýnýflar & nesneler-uçak seferleri\05100000003_05100000007_05110000064\main.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+	"String.h"
+	"Ucus.h"
+	"Ucus_Numarasina_Gore_Ucus_Listesi.h"
+	"Kalkis_Yerine_Gore_Ucus_Listesi.h"
+
+1337081046 c:\users\furkan\desktop\ \c.e\algoritma lab\projeler\vol6-sýnýflar & nesneler-uçak seferleri\05100000003_05100000007_05110000064\kalkis_yerine_gore_ucus_listesi.h
+	"String.h"
+	"Ucus.h"
+
+1337179539 source:c:\users\furkan\desktop\ \c.e\algoritma lab\projeler\vol6-sýnýflar & nesneler-uçak seferleri\05100000003_05100000007_05110000064\kalkis_yerine_gore_ucus_listesi.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	"String.h"
+	"Ucus.h"
+	"Kalkis_Yerine_Gore_Ucus_Listesi.h"
+

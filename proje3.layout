@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Kalkis_Yerine_Gore_Ucus_Listesi.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="2026" topLine="0" />
+	</File>
+	<File name="Kalkis_Yerine_Gore_Ucus_Listesi.h" open="0" top="0" tabpos="7">
+		<Cursor position="476" topLine="0" />
+	</File>
+	<File name="String.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="757" topLine="12" />
+	</File>
+	<File name="String.h" open="0" top="0" tabpos="2">
+		<Cursor position="412" topLine="0" />
+	</File>
+	<File name="Ucus.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="1226" topLine="59" />
+	</File>
+	<File name="Ucus.h" open="0" top="0" tabpos="4">
+		<Cursor position="646" topLine="4" />
+	</File>
+	<File name="Ucus_Numarasina_Gore_Ucus_Listesi.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="2164" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="0">
+		<Cursor position="7230" topLine="12" />
+	</File>
+</CodeBlocks_layout_file>
